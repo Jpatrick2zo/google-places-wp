@@ -4,11 +4,11 @@ Tags: google maps, nearby search, google maps API
 Requires at least: 6.0
 Tested up to: 6.0
 Stable tag: 6.0
-Requires PHP: 7.0
+Requires PHP: 8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Google Places WP adds the ability to include a Google Map on their Wordpress website that shows nearby places of interest.
+Google Places WP adds the ability to include a Google Map on a Wordpress website that shows nearby places of interest.
 
 == Description ==
 
